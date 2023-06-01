@@ -2,7 +2,9 @@
 
 Quiz App is a Flutter application that allows users to take quizzes on various topics. It provides multiple-choice questions and displays the user's score at the end of the quiz.
 
-![Quiz App Screenshot](screenshot.png)
+<p align="center">
+<img src="screenshot.gif"/>
+</p>
 
 ## Features
 
